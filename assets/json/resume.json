@@ -1,61 +1,97 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jean Claude Ntambara",
+    "label": "Computer Science Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "jc.ntambara@gmail.com",
+    "phone": "(501) 932-2132",
+    "url": "https://www.linkedin.com/in/jean-claude-ntambara-076651142/",
+    "address": "1600 Washington Avenue, Conway Arkansas 72032",
+    "summary": "An aspring Software Engineer with a few years of experience working as as a Software Engineer intern!",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "1600 Washington Avenue",
+      "postalCode": "AR 72032",
+      "city": "Conway",
       "countryCode": "US",
-      "region": "California"
+      "region": "Arkansas"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Instagram",
+        "username": "jean_claude124",
+        "url": "https://www.instagram.com/jean_claude124/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Acxiom LLC, Conway Arkansas",
+      "position": "Software Engineering Intern",
+      "url": "",
+      "startDate": "2023-05-24",
+      "endDate": "present",
+      "summary": "",
       "highlights": [
-        "Relativity"
+          "Enhance Acxiom's Cloud Docs Project by writing custom remark linting rules for validating templates and formats using JavaScript; simplify the project's updates and extend its CI/CD using Jenkins and GitHub workflows.",
+          "Improve Cloud Docs Project User Interface to enhance the company's internal user experience using HTML, JavaScript, and CSS."
+      ]
+    },
+    {
+      "name": "SEO Technology Track, Virtual",
+      "position": "Tech Developer and SEO EDGE Participant",
+      "url": "",
+      "startDate": "2022-05-22",
+      "endDate": "2022-08-20",
+      "summary": "",
+      "highlights": [
+          "Participated in a long-term career preparation and mentorship program to develop technical and career skills.",
+          "Completed 300+ hours of technology focused training on software development, databases, testing, and implementation.",
+          "Designed web applications using Python, HTML, CSS, and MySQL to retrieve API data that responds to user needs."
+      ]
+    },
+    {
+      "name": "Hendrix College, Conway Arkansas",
+      "position": "Student Worker",
+      "url": "",
+      "startDate": "2021-02-17",
+      "endDate": "2023-05-15",
+      "summary": "",
+      "highlights": [
+          "CSCI 150 TA (Lab Grader) (Sept 2022 -- May 2023) Provided feedback to over 60 computer science students taking an introductory level course on how to fix and/or improve their code and programming style where needed. Reviewed and graded the submitted Python code for the weekly labs using PyCharm, Jupyter notebook and Microsoft Excel. ",
+          "Information Technology Helpdesk Support (Feb 2021 -- May 2023) Helped in processing requests of the College's ticket management system using ServicePRO, troubleshot software, helped resolve WiFi and computer hardware issues, and set up all college’s tech-related events. Answered phone calls from faculty, staff, and students to provide friendly and efficient tech support campus wide. "
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
+      "institution": "Hendrix College, Conway Arkansas",
+      "url": "https://www.hendrix.edu/",
+      "area": "Computer Science",
+      "studyType": "Bachelors of Art",
+      "startDate": "2021-01-13",
+      "endDate": "2024-12-15",
+      "score": "3.75",
       "courses": [
-        "Theory of Relativity"
+        "Foundations of Computer Science (Python)",
+        "Data Structures (Java)",
+        "Scientific Computing",
+        "Discrete Mathematics",
+        "Algorithms",
+        "Calculus 1",
+        "Computational Humanities",
+        "Programming Languages",
+        "Operating Systems and Concurrency",
+        "Database and Web Systems"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Acxiom Diversity Scholarship '23 Recipient",
+      "date": "2023-05-22",
+      "awarder": "Acxiom LLC",
+      "summary": "Acxiom's Diversity Scholarship Initiative offers $5000 scholarships to benefit 10 diverse students who are enrolled full-time in a post-secondary degree program in Computer Science or related areas of study in the United States."
     }
   ],
   "certificates": [],
@@ -63,12 +99,12 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
-    },
-    {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "Kinyarwanda",
+      "fluency": "Native Speaker"
     }
   ],
   "interests": [],

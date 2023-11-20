@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jcntambara15
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - jcntambara15/family-promise-web-app
+  - jcntambara15/jeckyll-al-folio-demo
+  - jcntambara15/hugo-site-demo
+  - jcntambara15/hugo-docsy-demo
+  - cloud-leon/MixMatchPlay
