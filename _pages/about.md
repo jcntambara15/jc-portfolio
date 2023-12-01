@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I'm a Senior at Hendrix College majoring in Computer Science. 
-I'm a technology enthusiast with the main interest in Database management, software development, and exploring how to solve complex problems while contributing to the betterment of people's lives.
+I'm a technology enthusiast with a main interest in Database management, software development, and exploring how to solve complex problems while contributing to the betterment of people's lives.
 
 
 ### **Interests**
