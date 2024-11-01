@@ -18,20 +18,24 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a Senior at Hendrix College majoring in Computer Science. 
-I'm a technology enthusiast with a main interest in Database management, software development, and exploring how to solve complex problems while contributing to the betterment of people's lives.
+A passionate Software Engineer and graduating senior at Hendrix College (3.8 GPA) with hands-on experience in DevOps, automation, and web development. Currently serving as a Software Automation Engineer Intern at Acxiom LLC, where I've led significant improvements in deployment automation and documentation processes, reducing deployment times and enhancing team efficiency.
+
+My technical journey spans from building custom CI/CD pipelines to designing user-centric web interfaces. As someone who thrives on solving complex problems, I've containerized applications using Docker and Kubernetes, implemented automated workflows with Jenkins, and developed robust documentation systems that have positively impacted various engineers.
+
+Beyond technical skills, I bring a unique perspective through my diverse background and leadership experience as a Resident Assistant and former Teaching Assistant (Lab Grader), where I helped guide 60+ computer science students through their programming journey.
 
 
-### **Interests**
+### **Interests and Passions**
 
-* Software Development
-* Database
-* Front End Engineering
+* Building efficient, scalable software solutions
+* Frontend engineering and responsive web development
+* DevOps practices and automation
 
 ### **Hobbies**
 
 * Volleyball
 * Basketball
-* Music Instruments (Piano and Guitar)
+* Soccer
+* Musical Instruments (Piano and Guitar)
 * Biking
 * Cooking

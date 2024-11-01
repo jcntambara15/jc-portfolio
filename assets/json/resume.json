@@ -1,13 +1,13 @@
 {
   "basics": {
     "name": "Jean Claude Ntambara",
-    "label": "Computer Science Student",
+    "label": "Incoming Computer Science New Grad",
     "image": "",
     "email": "jc.ntambara@gmail.com",
     "phone": "(501) 932-2132",
-    "url": "https://www.linkedin.com/in/jean-claude-ntambara-076651142/",
+    "url": "https://www.linkedin.com/in/jean-claude-jc-ntambara-076651142/",
     "address": "1600 Washington Avenue, Conway Arkansas 72032",
-    "summary": "An aspring Software Engineer with over 1+ years of experience working as as a Software Engineer intern!",
+    "summary": "An aspring Software Engineer with over 2+ years of experience working as a Software Developer and Automation Engineer intern",
     "location": {
       "address": "1600 Washington Avenue",
       "postalCode": "AR 72032",
@@ -26,14 +26,20 @@
   "work": [
     {
       "name": "Acxiom LLC, Conway Arkansas",
-      "position": "Software Engineering Intern",
+      "position": "Software Automation Engineer Intern",
       "url": "",
       "startDate": "2023-05-24",
       "endDate": "present",
       "summary": "",
       "highlights": [
-          "Enhance Acxiom's Cloud Docs Project by writing custom remark linting rules for validating templates and formats using JavaScript; simplify the project's updates and extend its CI/CD using Jenkins and GitHub workflows.",
-          "Improve Cloud Docs Project User Interface to enhance the company's internal user experience using HTML, JavaScript, and CSS."
+          "Engineered an automated deployment pipeline reducing manual deployment through implementing weekly automated pull requests using Jenkins and GitHub API integration.",
+          "Spearheaded real-time development communications by architecting a Slack integration system that broadcasts Jenkins build statuses, enabling immediate individual or team response to build issues.",
+          "Led end-to-end ownership of Cloud Docs projects CI/CD processes, developing custom JavaScript-based remark linting rules that improved documentation consistency.",
+          "Implemented robust code review protocols by establishing mandatory codeowner approvals, resulting in a significant reduction in production-environment issues.",
+          "Completely modified Cloud Docs platform's user interface using HTML, JavaScript, and CSS. The new UI/UX resulted in a user satisfaction boost and significantly improved documentation accessibility.",
+          "Mentored 5+ new hires and interns through comprehensive Cloud Docs onboarding sessions, reducing ramp-up time from one week to 3 days and achieving 100% team autonomy in project contributions.",
+          "Authored and maintained cloud template tutorials accessed by Acxiom cloud engineers, resulting in faster template implementation across teams.",
+          "Orchestrated containerization of Cloud Docs platform using Docker and Kubernetes, creating Helm Charts and implementing harbor registry integration, improving the scalability of the site."
       ]
     },
     {
@@ -57,7 +63,7 @@
       "endDate": "2023-05-15",
       "summary": "",
       "highlights": [
-          "CSCI 150 TA (Lab Grader) (Sept 2022 -- May 2023) Provided feedback to over 60 computer science students taking an introductory level course on how to fix and/or improve their code and programming style where needed. Reviewed and graded the submitted Python code for the weekly labs using PyCharm, Jupyter notebook and Microsoft Excel. ",
+          "CSCI 150 Teaching Assistant (Lab Grader) (Sept 2022 -- May 2023) Provided feedback to over 60 computer science students taking an introductory level course on how to fix and/or improve their code and programming style where needed. Reviewed and graded the submitted Python code for the weekly labs using PyCharm, Jupyter notebook and Microsoft Excel. ",
           "Information Technology Helpdesk Support (Feb 2021 -- May 2023) Helped in processing requests of the College's ticket management system using ServicePRO, troubleshot software, helped resolve WiFi and computer hardware issues, and set up all college’s tech-related events. Answered phone calls from faculty, staff, and students to provide friendly and efficient tech support campus wide. "
       ]
     }
@@ -82,7 +88,8 @@
         "Computational Humanities",
         "Programming Languages",
         "Operating Systems and Concurrency",
-        "Database and Web Systems"
+        "Database and Web Systems",
+        "Senior Seminar"
       ]
     }
   ],
@@ -96,7 +103,72 @@
   ],
   "certificates": [],
   "publications": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        "Python",
+        "Java (Intermediate)",
+        "JavaScript",
+        "C# (Beginner)",
+        "Go",
+        "Groovy",
+        "Shell",
+        "PowerShell"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "React",
+        "jQuery",
+        "ASP.NET"
+      ]
+    },
+    {
+      "name": "Database & Query Languages",
+      "keywords": [
+        "SQL/MySQL (Intermediate)",
+        "APIs"
+      ]
+    },
+    {
+      "name": "DevOps & Infrastructure",
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "Jenkins",
+        "Git",
+        "Helm Charts",
+        "Harbor",
+        "Rancher",
+        "vRA"
+      ]
+    },
+    {
+      "name": "Development Concepts",
+      "keywords": [
+        "Object Oriented Programming",
+        "Computer Science Fundamentals",
+        "CI/CD",
+        "Containerization"
+      ]
+    },
+    {
+      "name": "Collaboration & Project Tools",
+      "keywords": [
+        "Jira",
+        "Confluence",
+        "Slack",
+        "Microsoft Office Suite",
+        "Microsoft Teams",
+        "ServiceNow",
+        "Draw.io"
+      ]
+    }
+  ],
   "languages": [
     {
       "language": "English",
