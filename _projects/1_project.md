@@ -2,7 +2,7 @@
 layout: page
 title: Mix Match Play
 description: a playlist converter for music lovers.
-img: assets/img/12.jpg
+img: assets/img/mix-match-play.png
 importance: 1
 category: work
 related_publications:
