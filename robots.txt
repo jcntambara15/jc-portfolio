@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jcntambara15.github.io/jeckyll-al-folio-demo/sitemap.xml
+Sitemap: https://jcntambara15.github.iojc-portfolio/sitemap.xml
