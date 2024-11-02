@@ -39,7 +39,7 @@
           "Completely modified Cloud Docs platform's user interface using HTML, JavaScript, and CSS. The new UI/UX resulted in a user satisfaction boost and significantly improved documentation accessibility.",
           "Mentored 5+ new hires and interns through comprehensive Cloud Docs onboarding sessions, reducing ramp-up time from one week to 3 days and achieving 100% team autonomy in project contributions.",
           "Authored and maintained cloud template tutorials accessed by Acxiom cloud engineers, resulting in faster template implementation across teams.",
-          "Orchestrated containerization of Cloud Docs platform using Docker and Kubernetes, creating Helm Charts and implementing harbor registry integration, improving the scalability of the site."
+          "Led the containerization initiative of our Cloud Docs platform using Docker and Kubernetes. Implemented Helm Charts and Harbor registry integration, resulting in faster deployments and improved scalability."
       ]
     },
     {
@@ -57,14 +57,26 @@
     },
     {
       "name": "Hendrix College, Conway Arkansas",
-      "position": "Student Worker",
+      "position": "CSCI 150 Teaching Assistant (Lab Grader)",
+      "url": "",
+      "startDate": "2021-09-17",
+      "endDate": "2023-05-15",
+      "summary": "",
+      "highlights": [
+          "Provided feedback to over 60 computer science students taking an introductory level course on how to fix and/or improve their code and programming style where needed. ",
+          "Reviewed and graded the submitted Python code for the weekly labs using PyCharm, Jupyter notebook and Microsoft Excel."
+      ]
+    },
+    {
+      "name": "Hendrix College, Conway Arkansas",
+      "position": "Information Technology Helpdesk Support",
       "url": "",
       "startDate": "2021-02-17",
       "endDate": "2023-05-15",
       "summary": "",
       "highlights": [
-          "CSCI 150 Teaching Assistant (Lab Grader) (Sept 2022 -- May 2023) Provided feedback to over 60 computer science students taking an introductory level course on how to fix and/or improve their code and programming style where needed. Reviewed and graded the submitted Python code for the weekly labs using PyCharm, Jupyter notebook and Microsoft Excel. ",
-          "Information Technology Helpdesk Support (Feb 2021 -- May 2023) Helped in processing requests of the College's ticket management system using ServicePRO, troubleshot software, helped resolve WiFi and computer hardware issues, and set up all college’s tech-related events. Answered phone calls from faculty, staff, and students to provide friendly and efficient tech support campus wide. "
+          "Helped in processing requests of the College's ticket management system using ServicePRO, troubleshot software, helped resolve WiFi and computer hardware issues, and set up all college’s tech-related events.",
+          "Answered phone calls from over 200+ faculty, staff, and students to provide friendly and efficient tech support campus wide."
       ]
     }
   ],
