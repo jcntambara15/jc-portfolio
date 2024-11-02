@@ -2,7 +2,7 @@
 layout: page
 title: Family Promise of Pulaski County Database
 description: A project to Help an NGO better manage the data from their clients.
-img: assets/img/3.jpg
+img: assets/img/fppc.png
 importance: 2
 category: school
 giscus_comments: false
