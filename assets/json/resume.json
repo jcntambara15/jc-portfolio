@@ -126,7 +126,8 @@
         "Go",
         "Groovy",
         "Shell",
-        "PowerShell"
+        "PowerShell",
+        "Rust"
       ]
     },
     {
@@ -134,7 +135,6 @@
       "keywords": [
         "HTML",
         "CSS",
-        "React",
         "jQuery",
         "ASP.NET"
       ]
