@@ -10,4 +10,4 @@ giscus_comments: false
 
 This project aimed at helping an NGO - Family Promise of Pulaski County - better manage their data to be able to better serve their clients. Their clients include people undergoing homelessness and looking for shelters and other basic needs like food and clothes.
 
-Visit [FPPC-Diversion-Program](https://github.com/jcntambara15/family-promise-web-app) to view the project's GitHub Repository. Also the site is accessible [here](https://familypromisepulaskicounty.azurewebsites.net/).
+Visit [FPPC-Diversion-Program](https://github.com/jcntambara15/family-promise-web-app) to view the project's GitHub Repository. The site is private to the NGO. 
