@@ -18,11 +18,19 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-A passionate Software Engineer and graduating senior at Hendrix College (3.8 GPA) with hands-on experience in DevOps, automation, and web development. Currently serving as a Software Automation Engineer Intern at Acxiom LLC, where I've led significant improvements in deployment automation and documentation processes, reducing deployment times and enhancing team efficiency.
+I'm a passionate Software Engineer and a recent graduate from Hendrix College (3.83 GPA) with hands-on experience in Software Engineering specifically DevOps, automation, and web development. I previously served as a Software Engineer at Acxiom LLC, where I led significant improvements in deployment automation and documentation processes, reducing deployment times and enhancing team efficiency.
 
-My technical journey spans from building custom CI/CD pipelines to designing user-centric web interfaces. As someone who thrives on solving complex problems, I've containerized applications using Docker and Kubernetes, implemented automated workflows with Jenkins, and developed robust documentation systems that have positively impacted various engineers.
+My technical journey spans from building custom CI/CD pipelines to designing user-centric web interfaces. I've containerized applications using Docker and Kubernetes, implemented automated workflows with Jenkins, and developed robust documentation systems that have been used by 100+ engineers at Acxiom.
 
-Beyond technical skills, I bring a unique perspective through my diverse background and leadership experience as a Resident Assistant and former Teaching Assistant (Lab Grader), where I helped guide 60+ computer science students through their programming journey.
+Beyond technical skills, I bring a unique perspective through my diverse background and leadership experience as a Resident Assistant to over 300 college students and former Teaching Assistant (Lab Grader), where I helped guide 60+ computer science students through their programming journey.
+
+I'm particularly passionate about:
+
+Building efficient, scalable software solutions
+
+Software Engineering and responsive web development
+
+DevOps practices and automation
 
 
 ### **Interests and Passions**
